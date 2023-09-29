@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Development.**
 
-- 🌱 I’m currently learning **Bootstrap.**
+- 🌱 I’m currently learning **Bootstrap and React.**
 
 - 📫 How to reach me **bilgebaysal@yahoo.com**
 
