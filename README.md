@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilge</h1>
 <h3 align="center">an aspiring electrical and electronics engineering student currently in my second year of studies. 📚 My journey into the world of technology has been a thrilling exploration. 💻 Coding has become a fascinating playground for me! And I'm enthusiastic about becoming a skilled developer/engineer.</h3>
 
-- 🔭 I’m currently working on **HTML CSS and Java-Script.**
+- 🔭 I’m currently working on **Web Development.**
 
 - 🌱 I’m currently learning **Bootstrap.**
 
