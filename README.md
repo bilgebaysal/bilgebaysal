@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **HTML CSS and Java-Script.**
 
-- 🌱 I’m currently learning **CSS and Bootstrap.**
+- 🌱 I’m currently learning **Bootstrap.**
 
 - 📫 How to reach me **bilgebaysal@yahoo.com**
 
